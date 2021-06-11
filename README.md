@@ -1,5 +1,5 @@
 # Coinspot2py
- Coinspot API v2 Python Wrapper :+1:
+ *Coinspot API v2 Python Wrapper* :+1:
 
 example usuage:
 ```py
